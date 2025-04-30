@@ -62,9 +62,22 @@ AI logic in categorizeTask uses keyword arrays for smart categorization.
 
 🎮 How to Use
 
-Add a Task: Type something like “Client Meeting” or “Out for a Walk” in the input hub. Watch AI auto-categorize it!
+
+
+
+
+Add a Task: Type “Client Meeting” or “Out for a Walk” in the input hub. Watch AI auto-categorize!
+
+
+
 Set Urgency: Choose Low, Medium, or High to adjust priority scores.
+
+
+
 Sort & Manage: Sort tasks by priority, time, or category. Mark them complete or export as JSON.
+
+
+
 Switch Modes: Toggle light/dark mode for a personalized vibe.
 
 🤝 Contribute
